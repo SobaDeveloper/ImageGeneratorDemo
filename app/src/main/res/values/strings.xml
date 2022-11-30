@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Image Generator Demo</string>
+    <string name="blank_prompt">Blank prompt</string>
+    <string name="content_desc_download_button">download button</string>
+    <string name="description">Description</string>
+    <string name="free">Free</string>
+    <string name="generate_image">Generate Image</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="history">History</string>
+    <string name="home">Home</string>
+    <string name="image_saved">Image saved to your gallery</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="please_input_a_valid_prompt">Please input a valid prompt</string>
+    <string name="preset">Preset</string>
+    <string name="prompt_book">Prompt Book</string>
+    <string name="prompt_deleted">Prompt deleted</string>
+    <string name="prompts">Prompts</string>
+    <string name="select_prompt">Select Prompt</string>
+    <string name="settings">Settings</string>
+    <string name="style">Style</string>
+    <string name="subject">Subject</string>
+    <string name="what_image_do_you_want_to_generate">What image do you want to generate…</string>
+
+    <string-array name="prompt_subject">
+        <item>An astronaut</item>
+        <item>A bowl of soup</item>
+        <item>A red fox</item>
+        <item>Teddy bears</item>
+    </string-array>
+
+    <string-array name="prompt_description">
+        <item>lounging in a tropical resort in space</item>
+        <item>playing basketball with cats in space</item>
+        <item>reading newspaper</item>
+        <item>riding a horse</item>
+        <item>standing on a pizza in outer space</item>
+    </string-array>
+
+    <string-array name="prompt_style">
+        <item>anime</item>
+        <item>chinese watercolor</item>
+        <item>claymation</item>
+        <item>digital art</item>
+        <item>lego bricks</item>
+        <item>oil painting</item>
+        <item>pixel art</item>
+        <item>photorealistic</item>
+        <item>post-apocalyptic style</item>
+        <item>steampunk style</item>
+        <item>vaporwave style</item>
+    </string-array>
+</resources>
